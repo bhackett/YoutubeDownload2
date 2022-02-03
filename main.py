@@ -1,4 +1,3 @@
-import os
 from threading import *
 from tkinter import *
 from tkinter.filedialog import *
